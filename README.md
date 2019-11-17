@@ -1,4 +1,4 @@
 # estimate
-just an easy estimation for Robocon2020
-but only complete one-Tryball situation
-maybe add GA later
+# Just an easy estimation for Robocon2020
+# But only complete one-Tryball situation
+# Maybe add GA later
